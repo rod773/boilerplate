@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector(".main").innerText="Hello , this is my boiler plate in webpack"})();
